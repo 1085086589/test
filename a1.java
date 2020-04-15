@@ -1,4 +1,3 @@
-sdadsa
-asdsawqw
+System.out.println("hello world");
 
 
